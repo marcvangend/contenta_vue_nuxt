@@ -1,6 +1,6 @@
 // change this to your own server.
-const serverBaseUrl = 'https://back-end.contentacms.io';
-const serverFilesUrl = 'https://back-end.contentacms.io';
+const serverBaseUrl = 'http://contenta-test';
+const serverFilesUrl = 'http://contenta-test';
 
 export default {
   plugins: ['~plugins/vue-lazyload'],
